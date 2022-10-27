@@ -1,4 +1,4 @@
-<a href="https://parou.moe/" target="_blank"><img src="https://avatars.githubusercontent.com/u/28531401" alt="Mahou Kasa" align="left" height="200" /></a>
+<a href="https://parou.moe/" target="_blank"><img src="Mia_Tealifa_Token_450.png" alt="Mahou Kasa" align="left" height="200" /></a>
 <br />
 👋🏻 She/Her<br />
 ✨ Digital & Traditional Artist (Hobbyist)<br />
